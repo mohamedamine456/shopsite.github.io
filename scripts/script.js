@@ -28,7 +28,7 @@ searchBtn.onclick = () => {
 let products = [
     {
         name : 'Nikon d3300',
-        tag : 'nikond3300',
+        tag : 'Nikond3300',
         price : 500,
         incart : 0 
     },
@@ -55,7 +55,7 @@ let products = [
     ,
     {
         name : 'Pentax 700',
-        tag : 'pentax700',
+        tag : 'Pentax700',
         price : 550,
         incart : 0 
     }
